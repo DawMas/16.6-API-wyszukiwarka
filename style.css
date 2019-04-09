@@ -1,0 +1,35 @@
+body{
+    max-width: 1200px;
+    width: 100%;
+    background-color: rgb(206, 225, 233);
+    color: rgb(75, 117, 255);
+   text-align: center;
+    margin: 0 auto;
+    font-family: 'Quicksand', sans-serif; 
+    padding: 20px 0;
+
+}
+
+
+#search, .tweet{
+    border: .5px solid rgb(75, 117, 255);;
+    border-radius: 3px;
+    background-color: rgba(2, 2, 2, 0);
+    color: rgb(75, 117, 255);
+    width: 180px;
+    margin: 10px auto;
+    padding: 3px 0;
+    text-decoration: none;
+    
+}
+#countries{
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 30px;
+    color: rgb(255, 89, 89);
+}
+#country-name{
+    border: .5px solid rgb(75, 117, 255);;
+    border-radius: 3px;
+    height: 20px;
+}
